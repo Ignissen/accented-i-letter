@@ -21,5 +21,5 @@ pynput
 python-daemon  
 Ezek közül mindkettő telepííthető a pip segítségével.
 ## Használat:
-Az i billentyű egymás utáni kétszeri lenyomásával lehet í-t írni.  
+Az i billentyű gyors egymás utáni kétszeri lenyomásával lehet í-t írni.  
 A nagy I betűvel hasonlóan működik.
