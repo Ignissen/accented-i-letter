@@ -15,8 +15,8 @@ Hit the shift+i (so basically typing II fast) key twice relatively fast to type 
 Ezzel a scripttel könnyen lehet ékezetes í vagy Í betűt írni bármilyen billentyűzetkiosztással.  
 Indítás után daemon folyamat lesz, azaz háttérben fog futni.
 ## FÜggőségek:
-pynput 
+pynput  
 python-daemon 
 ## Használat:
-Az i billentyű egymás utáni kétszeri lenyomásával lehet í-t írni. 
+Az i billentyű egymás utáni kétszeri lenyomásával lehet í-t írni.  
 A nagy I betűvel hasonlóan működik.
