@@ -16,7 +16,8 @@ Ezzel a scripttel könnyen lehet ékezetes í vagy Í betűt írni bármilyen bi
 Indítás után daemon folyamat lesz, azaz háttérben fog futni.
 ## FÜggőségek:
 pynput  
-python-daemon 
+python-daemon  
+Ezek közül mindkettő telepííthető a pip segítségével.
 ## Használat:
 Az i billentyű egymás utáni kétszeri lenyomásával lehet í-t írni.  
 A nagy I betűvel hasonlóan működik.
