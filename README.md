@@ -1,7 +1,9 @@
 # Accented I or i letter
 ## Description:
 This script gives you the ability to type accented i or I letters like í or Í on any keyboard layout.  
-Aftar starting the script it will daemonize itself.
+Aftar starting the script it will daemonize itself.  
+  
+Basically I made this script because my laptop has US Layout and it's more complicated to type í or Í without this script.
 ## Dependencies:
 pynput  
 python-deamon  
